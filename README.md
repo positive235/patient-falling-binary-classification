@@ -14,3 +14,5 @@
 - **Future Works**:
   - Data: After collecting images, the labels of the images should be reviewed by human or a healthcare providers. 
   - Performance: In the future work, the performance on predicting on a patient's fall from the bed can be imporved by using a multi-class classification, which is classifying a patient right before falling from the bed, falling from the bed, already fallen from the bed, in the bed.
+
+### [Link to the source code of the project](https://github.com/positive235/patient-falling-binary-classification/blob/main/Is_patient_falling_or_not.ipynb)
