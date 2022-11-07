@@ -1,6 +1,10 @@
 #  Is a patient falling from the bed or not?
 
-- This project classifies patients falling from the bed or not (binary classification) by using deep learning models (ResNet) and fast.ai library.
+- This project classifies patients falling from the bed or not (binary classification) by using deep learning models (ResNet) and fast.ai library. 
+
+- This project used DuckDuckGo to search for images of "a patient falling from the bed photos" and "a patient in the bed photos" and saved them to this repository.
+  - Data before cleaning: falling_or_not-before_correction/
+  - Data after cleaning (by human(myself)): falling_or_not-after-correction/
 
 - This project is based on the project 'Is it a bird? Creating a model from your own data'(https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data) by Jeremy Howard, which is a resource of the lecture 1. Getting Started of 'Practical Deep Learning for Coders 2022' course(https://course.fast.ai/).
 
