@@ -3,7 +3,7 @@
 - This project classifies patients falling from the bed or not (binary classification) by using deep learning models (ResNet) and fast.ai library. 
   - [Project(1): How to Download Data from Internet Search to local computer](https://github.com/positive235/patient-falling-binary-classification/blob/main/Is_patient_falling_how_to_download_data.ipynb) 
   - [Project(2): Is a Patient Falling from the Bed or not? - Before Data Cleaning](https://github.com/positive235/patient-falling-binary-classification/blob/main/Is_patient_falling_or_not_before_data_cleaning.ipynb)
-  - [Project(3): Is a Patient Falling from the Bed or not? - After Data Cleaning]()
+  - [Project(3): Is a Patient Falling from the Bed or not? - After Data Cleaning](https://github.com/positive235/patient-falling-binary-classification/blob/main/Is_patient_falling_or_not_after_data_cleaning.ipynb)
   
 - This project used DuckDuckGo to search for images of "a patient falling from the bed photos" and "a patient in the bed photos" and saved them to this repository.
   - Data before cleaning: [falling_or_not-before_correction](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-before_correction)
