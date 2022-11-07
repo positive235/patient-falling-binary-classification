@@ -4,6 +4,7 @@
 
 - This project used DuckDuckGo to search for images of "a patient falling from the bed photos" and "a patient in the bed photos" and saved them to this repository.
   - Data before cleaning: falling_or_not-before_correction/
+  - Source code of Data Cleaning: https://colab.research.google.com/drive/1nHBV4XItcmBJf0S8EcL62nmqHuoKq0jy?usp=share_link
   - Data after cleaning (by human(myself)): falling_or_not-after-correction/
 
 - This project is based on the project 'Is it a bird? Creating a model from your own data'(https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data) by Jeremy Howard, which is a resource of the lecture 1. Getting Started of 'Practical Deep Learning for Coders 2022' course(https://course.fast.ai/).
@@ -19,4 +20,4 @@
   - Data: After collecting images, the labels of the images should be reviewed by human or a healthcare providers. 
   - Performance: In the future work, the performance on predicting on a patient's fall from the bed can be imporved by using a multi-class classification, which is classifying a patient right before falling from the bed, falling from the bed, already fallen from the bed, in the bed.
 
-### [Link to the source code of the project](https://github.com/positive235/patient-falling-binary-classification/blob/main/Is_patient_falling_or_not.ipynb)
+### [Link to the source code of the project]()
