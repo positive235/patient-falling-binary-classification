@@ -28,7 +28,7 @@
   - Data: After collecting images, the labels of the images were reviewed by human (myself).
   - Performance: (**In Progress**)
   
-### Note: How to Remove All .svn Directories (https://stackoverflow.com/questions/1294590/how-to-remove-all-svn-directories-from-my-application-directories)
+- **Note**: How to Remove All .svn Directories (https://stackoverflow.com/questions/1294590/how-to-remove-all-svn-directories-from-my-application-directories)
 ```
 find . -name .svn -exec rm -rf '{}' \;
 ```
