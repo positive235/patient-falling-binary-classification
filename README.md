@@ -9,11 +9,11 @@
   - Data before cleaning: [falling_or_not-before_correction/](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-before_correction)
   - [Source code of Data Cleaning](https://colab.research.google.com/drive/1nHBV4XItcmBJf0S8EcL62nmqHuoKq0jy?usp=share_link)
   - Data after cleaning (by human(myself)): [falling_or_not-after-correction/](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-after_correction) (**If you want to download only images, download falling/ and not-falling/ folder in it**)
-  - 'Test set folder' (chosen from falling_or_not-after-correction/) (**In Progress**)
+  - [Test Set Data (chosen from falling_or_not-after-correction/)](https://github.com/positive235/patient-falling-binary-classification/tree/main/test_set)
     - [Source code of setting test set from cleaned data](https://colab.research.google.com/drive/1uFIkJTM9C4O_InxwKopGQhtCiEHj24ny?usp=share_link)
-  - Training set folder (**In Progress**)
-    - 'Data before cleaning' excluding images in Test set folder
-    - 'Data after cleaning excluding' images in Test set folder 
+  - Data excluding Test set data (**In Progress**)
+    - 'Data before cleaning' excluding images in test_set/ folder
+    - ['Data after cleaning' excluding images in test_set/ folder](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-after_correction_training) 
 
 - This project is based on the project 'Is it a bird? Creating a model from your own data'(https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data) by Jeremy Howard, which is a resource of the lecture 1. Getting Started of 'Practical Deep Learning for Coders 2022' course(https://course.fast.ai/).
 
