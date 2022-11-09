@@ -8,7 +8,7 @@
 - This project used DuckDuckGo to search for images of "a patient falling from the bed photos" and "a patient in the bed photos" and saved them to this repository.
   - Data before cleaning: [falling_or_not-before_correction/](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-before_correction)
   - [Source code of Data Cleaning](https://colab.research.google.com/drive/1nHBV4XItcmBJf0S8EcL62nmqHuoKq0jy?usp=share_link)
-  - Data after cleaning (by human(myself)): [falling_or_not-after-correction/](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-after_correction) (**If you want to download only images, download falling/ and not-falling/ folder in it**)
+  - Data after cleaning (by human(myself)): [falling_or_not-after-correction/](https://github.com/positive235/patient-falling-binary-classification/tree/main/falling_or_not-after_correction)
   - [Test Set Data (chosen from falling_or_not-after-correction/)](https://github.com/positive235/patient-falling-binary-classification/tree/main/test_set)
     - [Source code of setting test set from cleaned data](https://colab.research.google.com/drive/1uFIkJTM9C4O_InxwKopGQhtCiEHj24ny?usp=share_link)
   - Data excluding Test set data (**In Progress**)
@@ -27,3 +27,8 @@
 - **Improvements after data cleaning**:
   - Data: After collecting images, the labels of the images were reviewed by human (myself).
   - Performance: (**In Progress**)
+  
+### Note: How to Remove All .svn Directories (https://stackoverflow.com/questions/1294590/how-to-remove-all-svn-directories-from-my-application-directories)
+```
+find . -name .svn -exec rm -rf '{}' \;
+```
